@@ -18,7 +18,7 @@ git init is used to initialize a new Git repository.
 
 Selenium checks browser-based applications.
 
-Deleted is not a state of Docker container. Created, Restarting, Running, Paused, Excited, and Dead are the states of Docker container.
+Deleted is not a state of Docker container. Created, Restarting, Running, Paused, Exited, and Dead are the states of Docker container.
 
 rmdir command helps to remove the directory.
 
